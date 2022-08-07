@@ -18,11 +18,11 @@
 
 6. 경진대회 자전거 대여 수요 예측 (p.167 ~ p.236)
 
-- 회귀문제, simple EDA, simple feature engineering, baseline model, LinearRegression, Ridge, Rasso, GridSearchCV, RandomForestRegressor, rmsle
+    - 회귀문제, simple EDA, simple feature engineering, baseline model, LinearRegression, Ridge, Rasso, GridSearchCV, RandomForestRegressor, rmsle
 
 7. 경진대회 범주형 데이터 이진분류 (~p.296)
 
-- 
+    - 
 
 - 2022.08.05 ~ 08.06
   - 1장  파이썬 기반의 머신러닝과 생태계 이해 강의 완강, 교재 읽기, 코드 리뷰
