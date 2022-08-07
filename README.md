@@ -1,61 +1,30 @@
-# Machine Learning Perfect Guide Study
+# Musthave_mldl_problem_solving Study
 
-- 파이썬 머신러닝 완벽 가이드 스터디
+- 머신러닝 딥러닝 문제해결 전략 스터디
 
 ## 스터디 목적
 
-- 머신러닝 애플리케이션 전반에 대한 체계적 복습
+- 캐글 입문
 
 ## 스터디 방식
 
-1. 인프런 - 파이썬 머신러닝 완벽 가이드 동영상 강의 수강
-   - 총 119강, 26시간
-2. 파이썬 머신러닝 완벽 가이드 교재로 복습
-   - 총 620페이지
-3. 깃헙 코드로 3차 복습
+1. 머신러닝 딥러닝 문제해결 전략 교재로 캐글 프로세스 이해와 노트북 필사
+  - 총 651페이지
+2. 반복되는 작업 ToolBox 레포에 정리
 
 ## 목차
 
-1. 파이썬 기반의 머신러닝과 생태계 이해 (~p.86)
+※1∼5장은 캐글에 대한 간략한 소개이므로 따로 다루지 않을 예정
 
-- Numpy, Pandas
+6. 경진대회 자전거 대여 수요 예측 (p.167 ~ p.236)
 
-2. 사이킷런으로 시작하는 머신러닝 (~p.142)
+- 회귀문제, simple EDA, simple feature engineering, baseline model, LinearRegression, Ridge, Rasso, GridSearchCV, RandomForestRegressor, rmsle
 
-- sklearn 프레임워크, Model Selection, 데이터 전처리
+7. 경진대회 범주형 데이터 이진분류 (~p.296)
 
-3. 평가 (~p.178)
+- 
 
-- Accuracy, 오차 행렬, Precision & Recall, Confusion Matrix, F1 Score, ROC/AUC
-
-4. 분류 (~p.285)
-
-- Decision Tree, Ensemble, Random Forest, Gradient Boosting Machine, XGBoost, LightGBM, Under Sampling/Over Sampling, Stacking
-
-5. 회귀 (~p.372)
-
-- Linear Regression, Bias-Variance Trade off, Lidge, Rasso, ElasticNet, Logistic Regression, Regression Tree
-
-6. 차원 축소 (~p.404)
-
-- PCA, LDA, SVD, NMF
-
-7. 군집화 (~p.459)
-
-- K-means, Cluster Evaluation, Mean Shift, GMM, DBSCAN
-
-8. 텍스트 분석 (~p.555)
-9. 추천 시스템 (~p.619)
-
-※ 8. 텍스트 분석은 추후 다룰 예정이며, 9. 추천 시스템은 다루지 않을 예정
-
-## 스터디 일지
-
-- 2019.11.07
-  - 인프런 - [파이썬 머신러닝 완벽 가이드 강의]( [https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C#](https://www.inflearn.com/course/파이썬-머신러닝-완벽가이드#) ) 구매
-  - [파이썬 머신러닝 완벽 가이드 교재]( http://www.yes24.com/Product/Goods/69752484?scode=032&OzSrank=1 ) 구매
-  
-- 2019.11.07 ~ 11.08
+- 2022.08.05 ~ 08.06
   - 1장  파이썬 기반의 머신러닝과 생태계 이해 강의 완강, 교재 읽기, 코드 리뷰
     - Numpy, Pandas
   - 머신러닝 기본과 Numpy, Pandas 관련 내용이므로 굳이 할 필요는 없었지만 팁이 될만한 부분을 건질 수 있을 것을 기대하고 빠른 속도로 공부함
