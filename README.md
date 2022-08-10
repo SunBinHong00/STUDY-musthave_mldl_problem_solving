@@ -16,27 +16,29 @@
 
 ※1∼5장은 캐글에 대한 간략한 소개이므로 따로 다루지 않을 예정
 
-6. 경진대회 자전거 대여 수요 예측 (p.167 ~ p.236)
+6장. 경진대회 자전거 대여 수요 예측 (p.167 ~ p.236)
 
     - 회귀문제, simple EDA, simple feature engineering, baseline model, LinearRegression, Ridge, Rasso, GridSearchCV, RandomForestRegressor, rmsle
 
-7. 경진대회 범주형 데이터 이진분류 (~p.296)
+7장. 경진대회 범주형 데이터 이진분류 (~p.296)
 
-    - 
+    - 분류문제, LogisticRegression, OrdinalEncoder, OnehotEncoder, GridSearchCV, scipy.sparse,  matplotlib.gridspec, get_crosstab, pointplot, CategoricalDtype
+
+
+
 
 - 2022.08.05 ~ 08.06
-  - 1장  파이썬 기반의 머신러닝과 생태계 이해 강의 완강, 교재 읽기, 코드 리뷰
-    - Numpy, Pandas
-  - 머신러닝 기본과 Numpy, Pandas 관련 내용이므로 굳이 할 필요는 없었지만 팁이 될만한 부분을 건질 수 있을 것을 기대하고 빠른 속도로 공부함
-  - 데이터 분석시 헷갈릴 만한 것들 교재에 표시해둠
+  - 6장 교재 읽기, 캐글 노트북 클론 코딩
+    - 처음 보는 데이터셋에 대해 피처 요약 함수에 대한 필요성을 느끼고 함수 구연에 포커스를 두고 공부함
+    - 타겟데이터의 비율에 따른 피처 중요도에 대한 통계학적 설명이 부족하다고 생각해 따로 통계공부를 함
   
-- 2019.11.09 ~ 11.10
-  - 2장  사이킷런으로 시작하는 머신러닝 강의 완강, 교재 읽기, 코드 리뷰
-    - Sklearn 프레임워크, Model selection (K-fold, Stratified K-fold, cross_val_score, GridSearchCV), 데이터 전처리
-  - Model Selection에 집중하여 복습함
+- 2022.08.07 ~ 08.10
+  - 7장 교재 읽기, 캐글 노트북 클론 코딩 
+    - Model selection (K-fold, Stratified K-fold, auc_roc, GridSearchCV), 데이터 전처리
+    - Model Selection에 집중하여 복습함
+    - 타겟과 피처와의 관계를 시각화 하는 함수를 구현하는대에 집중하여 공부함
   
 - 2019.11.11 ~ 11.12
-
   - 3장  평가 강의 완강, 교재 읽기, 코드 리뷰
 
     - Accuracy, Confusion Matrix, Precison and Recall, F1 Score, ROC/AUC
