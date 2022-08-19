@@ -53,11 +53,11 @@
     - OOF, bayesian_optimization의 원리는 알지만 코드를 짜는 구성에 익숙해지려 노력함
     - 전처리 과정중 인코딩시에 변수의 종류 각각에 대해서 직관적인 느낌만 알고 있어 책을 보지 않고 직접 인코딩하려니 어려움이 있었음
 - 2022.08.15 ~ 08.19
- - 9장 교재 읽기, 캐글 노트북 클론 코딩, 캐글 notebook과 discussion탭을 활용하여 다양한 시도
+  - 9장 교재 읽기, 캐글 노트북 클론 코딩, 캐글 notebook과 discussion탭을 활용하여 다양한 시도
     - 창의적인 피처엔지니어링이 이번 대회의 성적에 결정적인 기술이었음 따라서 discussion탭을 통해 다양한 의견들을 수용해서 선택지를 늘렸음
     - 데이터셋의 크기가 커지면서 메모리관리에 대한 필요성이 점점 커지고있음
     - 데이터셋의 피처가 많아질 수록 시각화가 더 많은 insight를 도출함을 느낌
 - 2022.08.19 ~
- - 캐글대회 Tabular Playground Series - Aug 2022참가 https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/overview
+  - 캐글대회 Tabular Playground Series - Aug 2022참가 https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/overview
     - 10장부터는 딥러닝대회에 관한 내용이라 지금까지 공부한 내용을 실전에서 다루고 익숙해지고 넘어가고싶어 이주남은 대회를 통해 내 것으로 만들고 넘어가기로함
     
