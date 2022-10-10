@@ -35,7 +35,12 @@
 
     - 회귀문제, groupby, down_castiong, garbage_collection, LightGBM, feature_engineering(이번 장의 전부)
     - time lag feature, bayesian_optimization
-
+    
+11장. 항공 사진 내 선인장 식별 (p.478 ~ p.532)
+  
+    - 분류 문제, pytorch, CNN, GPU, Dataset, Dataloader, transforms, Conv2d, MaxPool2d, AvgPool2d, optimizer, batchnorm
+    
+12장. 병든 입사귀 식별 (p.478 ~ p.532)
 
 - 2022.08.05 ~ 08.06
   - 6장 교재 읽기, 캐글 노트북 클론 코딩
@@ -58,10 +63,17 @@
     - 데이터셋의 크기가 커지면서 메모리관리에 대한 필요성이 점점 커지고있음
     - 데이터셋의 피처가 많아질 수록 시각화가 더 많은 insight를 도출함을 느낌
 - 2022.08.19 ~ 09.01
-  - 캐글대회 Tabular Playground Series - Aug 2022참가 https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/overview
-  - https://github.com/Hong-Soonbin/kaggle_Tabular_Playground_Series_Aug_2022
-  - 책에서 배운 체크리스트와 함수를 이번 대회에 맞게 변형해 적용하면서 대회를 진행해 다양한 방법론에 익숙해졌다. 특히 EDA!
-  - 10장부터는 딥러닝대회에 관한 내용이라 지금까지 공부한 내용을 실전에서 다루고 익숙해지고 넘어가고싶어 이주남은 대회를 통해 내 것으로 만들고 넘어가기로함
-- 2022.09.05 ~
-  - 11장 교재 읽기
+  - 캐글대회 Tabular Playground Series - Aug 2022 참가 
+  - https://github.com/Hong-Soonbin/kaggle_competition/tree/main/kaggle_Tabular_Playground_Series/Aug_2022
+  - 책에서 배운 체크리스트와 함수를 이번 대회에 맞게 변형해 적용하면서 대회를 진행해 다양한 방법론에 익숙해졌다. 특히 EDA !
+- 2022.09.01 ~ 2022.10.01
+  - 캐글대회 Tabular Playground Series - Sep 2022 참가
+  - https://github.com/Hong-Soonbin/kaggle_competition/tree/main/kaggle_Tabular_Playground_Series/Sep_2022
+  - 시계열에 익숙하지 않아 시계열만의 다양한 기법을 이해하는데에 시간을 많이 투자했다.
+  - 이제 모델선택하는 다양한 기법에 익숙해짐
+- 2022.10.07 ~ 2022.10.10
+  - 11장 교재 읽기, 캐글 노트북 클론 코딩
+  - 이미지 분류를 위한 CNN 합성곱신경망을 이해하고 성능개선을 위한 다양한 기법을 집중하여 공부함
+  - 데이터셋의 크기가 무거워져 colab pro GPU를 사용해도 학습시간이 오래 걸려 여러 노트북을 동시에 학습하기 시작함
+  - pytorch의 Dataset DataLoader 클래스를 커스텀해서 사용하기 때문에 class 상속을 처음으로 사용해함 #언제쓰나 했는데 여기서 잘 써서 뿌듯
     
